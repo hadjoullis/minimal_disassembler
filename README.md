@@ -1,2 +1,2 @@
-# my_disassembler
+# minimal_disassembler
 - minimal disassembler for ELF files
